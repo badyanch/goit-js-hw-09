@@ -14,6 +14,7 @@ function onButtonStart() {
   intervalEl = setInterval(changeColorBody, 1000);
 }
 
+
 function onButtonStop() {
   clearInterval(intervalEl);
 
