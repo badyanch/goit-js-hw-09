@@ -1,0 +1,15 @@
+.timer {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .timer .field {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .field .value {
+    font-size: 30px;
+  }
+  
